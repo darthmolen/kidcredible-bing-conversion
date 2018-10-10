@@ -1,0 +1,8 @@
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\bin\Debug\netcoreapp2.0\Bing-Conversion.deps.json
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\bin\Debug\netcoreapp2.0\Bing-Conversion.runtimeconfig.json
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\bin\Debug\netcoreapp2.0\Bing-Conversion.runtimeconfig.dev.json
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\bin\Debug\netcoreapp2.0\Bing-Conversion.dll
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\obj\Debug\netcoreapp2.0\Bing-Conversion.csprojAssemblyReference.cache
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\obj\Debug\netcoreapp2.0\Bing-Conversion.csproj.CoreCompileInputs.cache
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\obj\Debug\netcoreapp2.0\Bing-Conversion.AssemblyInfoInputs.cache
+E:\Development\kidcredible\Bing-Conversion\Bing-Conversion\obj\Debug\netcoreapp2.0\Bing-Conversion.AssemblyInfo.cs
